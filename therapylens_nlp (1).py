@@ -111,7 +111,7 @@ print("✅ Final results saved to 'therapy_emotion_analysis_advanced.csv'")
 
 """Streamlit App"""
 
-!pip install streamlit -q
+'''!pip install streamlit -q'''
 
 # app.py
 
