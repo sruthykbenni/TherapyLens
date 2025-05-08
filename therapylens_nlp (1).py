@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # STEP 1: Install Required Libraries
-!pip install transformers sentencepiece textblob wordcloud bertopic scikit-learn umap-learn langdetect -q
+'''!pip install transformers sentencepiece textblob wordcloud bertopic scikit-learn umap-learn langdetect -q'''
 
 # STEP 2: Import Libraries
 import json
