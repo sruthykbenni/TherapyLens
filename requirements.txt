@@ -1,0 +1,10 @@
+streamlit
+transformers
+sentencepiece
+textblob
+wordcloud
+bertopic
+scikit-learn
+umap-learn
+langdetect
+matplotlib
